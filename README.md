@@ -17,27 +17,27 @@ High-level documentation sample illustrating Git local workflow, branching, merg
 
 ---
 
-## 🧰 Project Name #2
+## Technical Concepts, Simplified
 
-Short description of what it demonstrates.
+A series of plain-English explainers covering common technical concepts (Git, CI/CD, Zero Trust, SBOM, Pull Requests). Developed in Markdown and deployed via GitHub Pages to demonstrate structured documentation and modern Docs-as-Code workflows.
 
-- 🔗 Link to repository
-
----
-
-## 🧠 Project Name #3
-
-Short description.
-
-- 🔗 Link
+- [🔗 Link to repository](https://altkeyboard.github.io/technical-concepts-simplified/concepts/ci-cd.html)
 
 ---
 
-## 🎬 Project Name #4
+## Version-Controlled Documentation Sample
 
-Short description.
+Developed a structured technical user guide for a fictional internal monitoring tool to demonstrate documentation architecture, Markdown formatting, and version-controlled documentation practices using Git and GitHub.
 
-- 🔗 Link
+- [ink](https://github.com/altkeyboard/technical-technical-user-guide) 
+
+---
+
+## Before & After Documentation
+
+Structured technical editing sample demonstrating transformation of SME-generated content into professional, user-centered documentation.
+
+- [ink](https://github.com/altkeyboard/technical-editing-sample)
 
 ---
 
