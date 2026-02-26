@@ -29,7 +29,7 @@ A series of plain-English explainers covering common technical concepts (Git, CI
 
 Developed a structured technical user guide for a fictional internal monitoring tool to demonstrate documentation architecture, Markdown formatting, and version-controlled documentation practices using Git and GitHub.
 
-- [🔗 Link to repository](https://github.com/altkeyboard/technical-technical-user-guide) 
+- [🔗 Link to repository](https://github.com/altkeyboard/technical-user-guide) 
 
 ---
 
