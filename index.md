@@ -8,12 +8,12 @@ Welcome to my portfolio repository. Below are selected technical writing and doc
 
 ---
 
-## 📘 Git Distributed Branching & Merge Workflow
+## Git Distributed Branching & Merge Workflow
 
 High-level documentation sample illustrating Git local workflow, branching, merging, and remote synchronization.
 
-- 📄 [View Documentation PDF](https://github.com/altkeyboard/technical-writing-samples/blob/main/git-distributed-workflow/Git_Distributed_Workflow_Documentation_Sample.pdf)
-- 🖼 [View Diagram](https://github.com/altkeyboard/technical-writing-samples/blob/main/git-distributed-workflow/git-workflow-diagram.png)
+- [View Documentation PDF](https://github.com/altkeyboard/technical-writing-samples/blob/main/git-distributed-workflow/Git_Distributed_Workflow_Documentation_Sample.pdf)
+- [View Diagram](https://github.com/altkeyboard/technical-writing-samples/blob/main/git-distributed-workflow/git-workflow-diagram.png)
 
 ---
 
