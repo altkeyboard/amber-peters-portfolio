@@ -29,7 +29,7 @@ A series of plain-English explainers covering common technical concepts (Git, CI
 
 Developed a structured technical user guide for a fictional internal monitoring tool to demonstrate documentation architecture, Markdown formatting, and version-controlled documentation practices using Git and GitHub.
 
-- [ink](https://github.com/altkeyboard/technical-technical-user-guide) 
+- [🔗 Link to repository](https://github.com/altkeyboard/technical-technical-user-guide) 
 
 ---
 
@@ -37,7 +37,7 @@ Developed a structured technical user guide for a fictional internal monitoring 
 
 Structured technical editing sample demonstrating transformation of SME-generated content into professional, user-centered documentation.
 
-- [ink](https://github.com/altkeyboard/technical-editing-sample)
+- [🔗 Link to repository](https://github.com/altkeyboard/technical-editing-sample)
 
 ---
 
