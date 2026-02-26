@@ -2,7 +2,6 @@
 title: Amber Peters – Portfolio
 ---
 # Amber Peters – Technical Writing Portfolio
-...
 
 Welcome to my portfolio repository. Below are selected technical writing and documentation samples demonstrating workflow modeling, version control documentation, and system-level communication.
 
