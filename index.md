@@ -44,7 +44,7 @@ Structured technical editing sample demonstrating transformation of SME-generate
 
 Structured policy development and documentation governance model aligned with operational standardization initiatives.
 
-🔗 [View Sample](operational-sop-governance/operational-sop-governance/Operational_SOP_Sample_Echo_Power.pdf)
+🔗 [View Sample](operational-sop-governance/operational-sop-governance/Operational_SOP_Sample.pdf)
 
 ---
 
