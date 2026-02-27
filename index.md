@@ -40,5 +40,13 @@ Structured technical editing sample demonstrating transformation of SME-generate
 
 ---
 
+## Operational SOP & Governance Framework
+
+Structured policy development and documentation governance model aligned with operational standardization initiatives.
+
+🔗 [View Sample](operational-sop-governance/)
+
+---
+
 Additional documentation samples available upon request.
 
