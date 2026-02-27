@@ -19,7 +19,7 @@ The sample reflects best practices for operational standardization initiatives a
 
 ## Documentation Sample
 
-📄 [View Full SOP Document (PDF)](Operational_SOP_Governance_Sample.pdf)
+📄 [View Full SOP Document (PDF)](operational-sop-governance/Operational_SOP_Governance_Sample.pdf) 
 
 ---
 
