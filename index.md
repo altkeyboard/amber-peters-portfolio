@@ -1,9 +1,26 @@
 ---
 title: Amber Peters – Portfolio
 ---
-# Amber Peters – Technical Writing Portfolio
+# Technical Writing & Developer Documentation Portfolio
 
 Welcome to my portfolio repository. Below are selected technical writing and documentation samples demonstrating workflow modeling, version control documentation, and system-level communication.
+
+---
+
+## Backend & API Documentation Projects
+
+### task-cli
+A Python-based command-line tool that consumes a public REST API, parses JSON responses, and implements structured error handling.
+
+Project Highlights:
+- CLI argument validation
+- HTTP request/response handling
+- JSON parsing
+- Custom 404 error messaging
+- Full documentation set (Usage, API Reference, Troubleshooting, Release Notes)
+- Git-based version control workflow
+
+This project reflects my ongoing expansion into API-driven documentation and backend systems literacy.
 
 ---
 
