@@ -9,8 +9,10 @@ Welcome to my portfolio repository. Below are selected technical writing and doc
 
 ## Backend & API Documentation Projects
 
-### task-cli
+## task-cli
 A Python-based command-line tool that consumes a public REST API, parses JSON responses, and implements structured error handling.
+
+- [🔗 Link to repository](https://github.com/altkeyboard/task-cli)
 
 Project Highlights:
 - CLI argument validation
@@ -37,7 +39,7 @@ High-level documentation sample illustrating Git local workflow, branching, merg
 
 A series of plain-English explainers covering common technical concepts (Git, CI/CD, Zero Trust, SBOM, Pull Requests). Developed in Markdown and deployed via GitHub Pages to demonstrate structured documentation and modern Docs-as-Code workflows.
 
-- [🔗 Link to repository](https://altkeyboard.github.io/technical-concepts-simplified/concepts/ci-cd.html)
+- [🔗 Link to webpage](https://altkeyboard.github.io/technical-concepts-simplified/concepts/ci-cd.html)
 
 ---
 
